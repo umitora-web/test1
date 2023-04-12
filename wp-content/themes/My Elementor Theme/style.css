@@ -1,0 +1,12 @@
+/*
+Theme Name: My Elementor Theme
+Theme URI: 
+Author: Maksym Shevchenko
+Version: 1.0
+License: GNU General Public License v2 or later
+*/
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
